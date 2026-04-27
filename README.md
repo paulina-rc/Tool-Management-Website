@@ -1,9 +1,12 @@
 # Tool Management System — Colegio Agropecuario San Carlos
-A navigable **UI/UX prototype designed in Figma** to manage the full lifecycle of school tools: reservations, loans, returns, and reporting — built for an agricultural technical high school.
----
 
+A navigable UI/UX prototype designed in Figma to manage the full lifecycle of school tools: reservations, loans, returns, and reporting — built for an agricultural technical high school.
+
+---
 ## Project Overview
-This project is a **non-coded UI/UX design** that proposes a digital solution to replace the informal, manual controls used to manage tools at the school. It covers everything from planning (reservations) to auditing (reports), including the daily flow of loans and returns.
+
+This project is a non-coded UI/UX design that proposes a digital solution to replace the informal, manual controls used to manage tools at the school. It covers everything from planning (reservations) to auditing (reports), including the daily flow of loans and returns.
+
 ---
 
 ## Problem It Solves
