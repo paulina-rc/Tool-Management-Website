@@ -61,7 +61,7 @@ Educational institutions that work with field tools face recurring issues:
 ## How to View the Prototype
 1. Open the file in [Figma](https://figma.com).
 2. Select the **"Login"** screen as the starting point.
-3. Press ▶ **Present** to launch the navigable prototype.
+3. Press **Present** to launch the navigable prototype.
 4. Demo credentials:
    - **Administrator:** `admin` / `admin123`
    - **Teacher:** any name / `prof123`
