@@ -28,20 +28,6 @@ Educational institutions that work with field tools face recurring issues:
 | **Warehouse Keeper** | Tool delivery, returns, incident registration |
 ---
 
-## Screens Designed
-
-1. **Login** — Role-based authentication (Administrator / Teacher)
-2. **Dashboard** — Daily summary: reservations, open loans, recent incidents, availability
-3. **Tool Inventory** — Table with search and filters by type/status
-4. **Create Reservation** — Date, time block (Full Day / Morning / Afternoon) and tools by type/quantity
-5. **Reservation Detail** — View, edit, cancel and status
-6. **Open Loan** — From an existing reservation or manually
-7. **Tool Delivery** — Assign a tool to a student within the loan
-8. **Return & Verification** — Mark status: OK or report an incident (type + description)
-9. **Loan Settlement** — Validate pending items and confirm closure
-10. **Reports & Analytics** — Multiple reports with filters (availability, usage, incidents, loans)
----
-
 ## Business Rules Reflected in the UI
 
 - Time block is always: **Full Day / Morning / Afternoon**.
